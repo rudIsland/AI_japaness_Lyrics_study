@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "248367531792",
+    "project_id": "japan-study-b49f6",
+    "storage_bucket": "japan-study-b49f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248367531792:android:d4079f919fb648d9ecc795",
+        "android_client_info": {
+          "package_name": "com.example.japan_study"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248367531792-do9kiiuj4sb4mpn12e5m7g5jfad8sedj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.japan_study",
+            "certificate_hash": "83c2d9ed51ff659a67dbb34c0d768ca0e017a23e"
+          }
+        },
+        {
+          "client_id": "248367531792-offgeul4o0ja69geuh4hkaju01f955pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvZTPPY1giRr5-CD8RuLVocW7V18f322I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248367531792-offgeul4o0ja69geuh4hkaju01f955pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
