@@ -9,10 +9,11 @@
 
 ## 📸 미리보기 (Screenshots)
 
-| ![홈 화면](./Document/홈화면.jpg) | ![가사 찾기](./assets/search.png) | ![AI 분석](./assets/analysis.png) |
+| <img src="./Pictures/홈화면.jpg" width="200" alt="홈 화면"> | <img src="./Pictures/공부기록화면.jpg" width="200" alt="공부기록"> | <img src="./Pictures/즐겨찾기화면.jpg" width="200" alt="즐겨찾기"> |
 |:---:|:---:|:---:|
-| **노래 고르기** | **정확한 가사 연결** | **AI의 가사 풀이** |
-
+| **홈 화면 (노래 고르기)** | **공부 기록** | **즐겨찾기** |
+| <img src="./Pictures/가사번역화면.jpg" width="200" alt="가사번역"> | <img src="./Pictures/노래가사화면.jpg" width="200" alt="노래가사"> | <img src="./Pictures/가사메모화면.jpg" width="200" alt="가사메모"> |
+| **AI 가사 풀이** | **정확한 가사 연결** |**단어 문법 공부** |
 ---
 
 ## ✨ 이런 기능이 있어요!
